@@ -9,19 +9,15 @@ public class Main {
 
         System.out.println("Repasando comandos");
         System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
-        System.out.println("Repasando comandos");
+
+
+        System.out.println("SUMA");
+        System.out.println("RESTA");
+        System.out.println("MULTIPLICACION");
+        System.out.println("DIVISION");
+
+
+
 
     }
 }
