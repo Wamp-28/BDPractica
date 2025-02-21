@@ -31,7 +31,5 @@ public class Main {
         System.out.println("COMO SE ACTUALIZAN REGISTROS - UPDATE SET");
         System.out.println("COMO SE BORRA UNA TABLA - DROP TABLE");
 
-
-
     }
 }
