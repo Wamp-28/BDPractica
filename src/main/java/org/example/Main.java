@@ -24,6 +24,6 @@ public class Main {
         System.out.println("COMANDOS BASES DE DATOS2");
 
 
-        System.out.println("Esta linea la agrego BrayhanOrtiz");
+
     }
 }
