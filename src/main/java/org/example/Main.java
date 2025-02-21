@@ -33,6 +33,7 @@ public class Main {
         System.out.println("ola");
 
 
+        System.out.println("COMO SE BORRA UNA TABLA - DROP TABLE");
 
 
 
