@@ -30,6 +30,9 @@ public class Main {
         System.out.println("COMO SE BUSCAN REGISTROS - SELECT * FROM TABLA");
         System.out.println("COMO SE ACTUALIZAN REGISTROS - UPDATE SET");
 
+        System.out.println("ola");
+
+
 
 
 
