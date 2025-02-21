@@ -26,6 +26,9 @@ public class Main {
         System.out.println("CREAR BASE DE DATOS - CREATE DATABASE ");
         System.out.println("COMO SE USA UNA BD - USE DATABASE");
         System.out.println("CREAR TABLA - CREATE TABLE");
+        System.out.println("COMO SE INSERTAR REGISTROS - INSERT INTO TABLA");
+        System.out.println("COMO SE BUSCAN REGISTROS - SELECT * FROM TABLA");
+        System.out.println("COMO SE ACTUALIZAN REGISTROS - UPDATE SET");
 
 
 
